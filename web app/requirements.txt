@@ -1,0 +1,7 @@
+module  | version
+---------------------
+pandas   0.24.2
+numpy    1.16.2
+sklearn  0.20.3
+streamlit 0.80.0
+ 
